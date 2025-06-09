@@ -1,2 +1,26 @@
 # Codigo-da-Transformacao-Python
-curso
+#estrutura de dados
+A estrutura de dados principal aqui é a lista nomes, usada para armazenar de forma dinâmica os dados inseridos. Esse tipo de estrutura permite:
+Armazenar qualquer quantidade de nomes (bastaria mudar o range(3)).
+Manipular e exibir os dados facilmente.
+Usar métodos como .append(), .remove(), etc.
+
+
+
+
+#logica
+Estrutura Condicional
+É uma estrutura de decisão com três caminhos possíveis usando if, elif e else.
+🔹 if nota >= 7
+Se a nota for maior ou igual a 7, o aluno está Aprovado.
+🔸 elif nota >= 5
+Se a nota não for maior ou igual a 7, mas for maior ou igual a 5, o aluno está de Recuperação.
+⚠️ else
+Se a nota for menor que 5, o aluno está Reprovado.
+
+
+introduçao
+
+input() recebe um valor digitado pelo usuário (como texto).
+float() converte esse texto para um número decimal (ex: 25.0).
+O valor é armazenado na variável celsius.
