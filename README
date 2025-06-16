@@ -9,14 +9,11 @@ Usar métodos como .append(), .remove(), etc.
 
 
 #logica
-Estrutura Condicional
-É uma estrutura de decisão com três caminhos possíveis usando if, elif e else.
-🔹 if nota >= 7
-Se a nota for maior ou igual a 7, o aluno está Aprovado.
-🔸 elif nota >= 5
-Se a nota não for maior ou igual a 7, mas for maior ou igual a 5, o aluno está de Recuperação.
-⚠️ else
-Se a nota for menor que 5, o aluno está Reprovado.
+No arquivo logica, tewa estrutura que pega idade, nome e mostra o horario atual, nele usei a
+biblioteca "detetime" para puxar a hora atual e input para capita o que o usuario digita essa biblioteca
+pode puxar tanto ano,mes,dia quanto a hora e no if e so pra eu ter base de falso e verdadeiro no caso
+se for maior que 18 acesso liberado caso tenha 17 acesso negado. boa estrutura para conhece entre if e elif e else.
+
 
 
 introduçao
